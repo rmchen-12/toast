@@ -1,7 +1,7 @@
 {
-  "name": "react-ahax",
-  "version": "1.0.3",
-  "description": "React跨组件通信解决方案",
+  "name": "@rmchen-12/toast",
+  "version": "1.0.0",
+  "description": "React Toast组件",
   "main": "./lib/index.js",
   "scripts": {
     "start": "rollup -c -w",
@@ -27,9 +27,10 @@
     "rollup-watch": "4.3.1"
   },
   "keywords": [
-    "React"
+    "React",
+    "Toast"
   ],
-  "author": "Aha",
+  "author": "rmchen-12",
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.6",
